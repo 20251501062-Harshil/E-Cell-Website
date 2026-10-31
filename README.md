@@ -60,3 +60,4 @@ The finale countdown is calculated from the date in India. To test a different d
 ```bash
 python3 -m http.server 8080   # then open http://localhost:8080
 ```
+Updated for Vercel deployment
